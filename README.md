@@ -12,8 +12,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-gray?logo=Next.js&logoColor=white&logoSize=auto"/ >
     <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/Lexical-purple?logoColor=white&logoSize=auto">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-green?logo=Clerk&logoColor=white&logoSize=auto">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Lexical-purple?logo=Sentry&logoColor=violet&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Clerk-green?logo=Clerk&logoColor=white&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Sentry-purple?logo=Sentry&logoColor=violet&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/shadcn-black?logo=shadcn%2Fui&logoColor=white&logoSize=auto">
   </div>
 
